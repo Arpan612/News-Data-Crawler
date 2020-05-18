@@ -1,1 +1,1 @@
-This is an assignmemt as a part of the internship program at Bipolar factory.
+Files for the News Data Crawler project done by me for my team at BITS Pilani.
